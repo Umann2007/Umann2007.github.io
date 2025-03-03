@@ -4,3 +4,7 @@ int c=0;
 void function(){
     a++;
 }
+
+void test(){
+    a++;
+}
