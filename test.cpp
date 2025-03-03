@@ -7,4 +7,5 @@ void function(){
 
 void test(){
     a++;
+    a--;
 }
