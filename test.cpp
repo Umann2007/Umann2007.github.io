@@ -3,4 +3,5 @@ int a =0;
 
 void test(){
     a++;
+    a--;
 }
